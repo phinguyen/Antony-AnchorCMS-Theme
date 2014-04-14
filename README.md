@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 #Antony - A free reponsive theme for anchorcms
 =======
 Antony-AnchorCMS-Theme
 ======================
 
 A free theme reponsive for AnchorCMS 0.9.2
->>>>>>> 37aa7f75c80ec61cdadc78a9080c39c0888a9c24
 ####Antony is a really simple and reponsive theme with a clean style.
 
 
