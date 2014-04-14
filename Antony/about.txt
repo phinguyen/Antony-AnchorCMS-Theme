@@ -1,0 +1,5 @@
+Theme name: Antony
+Description: My fist theme for AnchorCMS.
+Author name: Phi Nguyen
+Author site: http://phinguyen.net
+License: http://phinguyen.net
