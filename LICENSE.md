@@ -6,5 +6,5 @@ Our Themes are 100% FREE. All site templates are licensed under the [Creative Co
     Use them for commercial stuff
     Change them however you like
 
-All for free. In exchange, just give BlackTie.co credit for the design and wazeo.de credit for the Anchorcms port.
-And tell all your friends about us.
+All for free. In exchange, just give phinguyen.net credit for the design.
+And tell all your friends about me :).
