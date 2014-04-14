@@ -1,10 +1,7 @@
-#Antony - A free reponsive theme for anchorcms
+#Antony - A free responsive theme for AnchorCMS
 =======
-Antony-AnchorCMS-Theme
-======================
 
-A free theme reponsive for AnchorCMS 0.9.2
-####Antony is a really simple and reponsive theme with a clean style.
+####Antony is a really simple and responsive theme with a clean style.
 
 
 
